@@ -1,10 +1,12 @@
-package com.demomicro.categorieservice.model;
+package com.demomicro.cartservice.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 public class Categorie {
 
     private int id;
