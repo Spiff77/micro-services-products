@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="categorie-service" />
         <module name="cart-service" />
+        <module name="eureka-server" />
         <module name="product-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cart-service" target="11" />
       <module name="categorie-service" target="11" />
+      <module name="eureka-server" target="1.8" />
       <module name="product-service" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -21,6 +23,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cart-service" options="-parameters" />
       <module name="categorie-service" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
       <module name="product-service" options="-parameters" />
     </option>
   </component>

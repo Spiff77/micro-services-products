@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cart-service/cart-service.iml" filepath="$PROJECT_DIR$/cart-service/cart-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/categorie-service/categorie-service.iml" filepath="$PROJECT_DIR$/categorie-service/categorie-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/micro-services.iml" filepath="$PROJECT_DIR$/.idea/micro-services.iml" />
       <module fileurl="file://$PROJECT_DIR$/product-service/product-service.iml" filepath="$PROJECT_DIR$/product-service/product-service.iml" />
     </modules>
